@@ -1,2 +1,3 @@
-# binary-star
-Custom component librabry with Tailwind CSS and React.js 
+# Binary Star
+
+Custom component librabry with Tailwind CSS, React.js and vite.
